@@ -1,0 +1,29 @@
+body {
+	background-color: white;
+}
+div{
+	margin:auto;
+}
+.btn-primary {
+	margin-top: 20px;
+}
+.container {
+	margin-top: 40px;
+}
+.panel-title{
+	color:rgb(176, 93, 5);
+}
+.row{
+	margin:auto;
+}
+#logo{
+	width: 480px;
+}
+#burgers-name{
+	color:rgb(198, 76, 0);
+	font-size:20px;
+}
+#burger-img{
+	width: 180px;
+	margin:auto;
+}
